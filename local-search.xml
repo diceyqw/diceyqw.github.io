@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>test post</title>
+    <link href="/2026/03/19/test-post/"/>
+    <url>/2026/03/19/test-post/</url>
+    
+    <content type="html"><![CDATA[<h2 id="这是第一篇测试文章"><a href="#这是第一篇测试文章" class="headerlink" title="这是第一篇测试文章"></a>这是第一篇测试文章</h2><p>开始尝试写点东西</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2026/03/19/hello-world/"/>
     <url>/2026/03/19/hello-world/</url>
